@@ -9,14 +9,14 @@ Il modulo "React Post Viewer" è stato progettato per semplificare la visualizza
     <img src="https://vitejs.dev/logo.svg" alt="Logo Vite JS" width="100" height="100">
   </a>
   <a href="https://it.legacy.reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="Logo React" width="100" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" alt="Logo React" width="100">
   </a>
 </div>
 
 ## Descrizione
 Joomla è un robusto sistema di gestione dei contenuti, e con questo modulo React JS, hai la possibilità di portare la tua esperienza utente al livello successivo.
 
-Questo progetto fornisce un'interfaccia semplificata per la compilazione automatica dei file Sass all'interno di Joomla 4, grazie all'integrazione di Vite JS. Vite JS, con la sua architettura basata su ESM (ECMAScript Modules), offre una compilazione veloce e una gestione efficiente delle dipendenze, rendendo il processo di sviluppo più fluido ed efficiente.
+Questo progetto fornisce un'interfaccia semplificata per la compilazione automatica di React all'interno di Joomla 4, grazie all'integrazione di Vite JS. Vite JS, con la sua architettura basata su ESM (ECMAScript Modules), offre una compilazione veloce e una gestione efficiente delle dipendenze, rendendo il processo di sviluppo più fluido ed efficiente.
 
 ## Caratteristiche Principali
 * **Visualizzazione di tutti i Post**: Il modulo consente agli utenti di visualizzare una lista completa di tutti i post presenti sul tuo sito Joomla direttamente dalla pagina frontend.
